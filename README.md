@@ -1,6 +1,6 @@
 # Invasive-liver-fluke-infections and gut microbiota in red deer
 
-This repository contains Rcode and data for our manuscript: "Gut microbiota and invasive Fascioloides magna infections in a definitive host in Europe"
+This repository contains Rcode and data for our manuscript: "Gut microbiota and invasive <i>Fascioloides magna<i> infections in a definitive host in Europe"
 
 by Ramona Fleischer1*, Marc Velling2, Wibke Peters3, Frederik Franke3, Tomáš Peterka4, Pavla Jůnková Vymyslická4, Jan Mokrý4, Martin Starý4, Steffen Rehbein5, Marco Heurich2,6, Simone Sommer1*
 
