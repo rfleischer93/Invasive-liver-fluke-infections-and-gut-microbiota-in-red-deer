@@ -11,4 +11,4 @@ by Ramona Fleischer1*, Marc Velling2, Wibke Peters3, Frederik Franke3, Tomáš P
 5 Boeringer Ingelheim, Germany <br>
 6 Department of National Park Monitoring and Animal Management, Bavarian Forest National Park, Germany
 
-* corresponding authors: ramona.fleischer@uni-ulm.de, simone.sommer@uni-ulm.de 
+*corresponding authors: ramona.fleischer@uni-ulm.de, simone.sommer@uni-ulm.de 
