@@ -2,7 +2,7 @@
 
 This repository contains Rcode and data for our manuscript: "Gut microbiota and invasive <i>Fascioloides magna</i> infections in a definitive host in Europe"
 
-by Ramona Fleischer1*, Marc Velling<sup>2, Wibke Peters<sup>3, Tomáš Peterka<sup>4,5, Frederik Franke<sup>3, Pavla Jůnková Vymyslická<sup>5,6, Steffen Rehbein<sup>7, Marco Heurich<sup>2,8,9, Simone Sommer<sup>1
+by Ramona Fleischer<sup>1</sup>*, Marc Velling<sup>2</sup>, Wibke Peters<sup>3</sup>, Tomáš Peterka<sup>4,5</sup>, Frederik Franke<sup>3</sup>, Pavla Jůnková Vymyslická<sup>5,6</sup>, Steffen Rehbein<sup>7</sup>, Marco Heurich<sup>2,8,9</sup>, Simone Sommer<sup>1</sup>
 
 1 Institute of Evolutionary Ecology and Conservation Genomics, University of Ulm, Germany <br>
 2 Faculty of Environment and Natural Resources, University of Freiburg, Germany <br>
